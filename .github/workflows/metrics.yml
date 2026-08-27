@@ -22,6 +22,8 @@ jobs:
       contents: write       # Required to commit SVGs back to the repository
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       # ──────────────────────────────────────────────────
       # 1. Isometric Commit Calendar — Full Year
@@ -33,9 +35,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: AsiriJayakodi
           base: ""
+          config_theme: dark
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           config_timezone: Asia/Colombo
+          output_action: none
 
       # ──────────────────────────────────────────────────
       # 2. Starred Topics — Icon Mode
@@ -47,8 +51,29 @@ jobs:
           token: NOT_NEEDED
           user: AsiriJayakodi
           base: ""
+          config_theme: dark
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
           config_timezone: Asia/Colombo
+          output_action: none
 
+      # ──────────────────────────────────────────────────
+      # 3. Force Dark Mode Palette on 3D Isometric Calendar
+      # ──────────────────────────────────────────────────
+      - name: Apply Dark Mode Palette to 3D Isometric Calendar
+        run: |
+          sed -i 's/fill="#ebedf0"/fill="#1b222d"/g' metrics.plugin.isocalendar.fullyear.svg
+          sed -i 's/fill="#9be9a8"/fill="#0e4429"/g' metrics.plugin.isocalendar.fullyear.svg
+          sed -i 's/fill="#40c463"/fill="#006d32"/g' metrics.plugin.isocalendar.fullyear.svg
+          sed -i 's/fill="#30a14e"/fill="#26a641"/g' metrics.plugin.isocalendar.fullyear.svg
+          sed -i 's/fill="#216e39"/fill="#39d353"/g' metrics.plugin.isocalendar.fullyear.svg
+
+      # ──────────────────────────────────────────────────
+      # 4. Commit and Push Generated SVGs
+      # ──────────────────────────────────────────────────
+      - name: Commit and Push SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update metrics SVGs (Dark Theme) [skip ci]"
+          file_pattern: "*.svg"
