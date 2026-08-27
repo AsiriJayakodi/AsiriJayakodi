@@ -109,9 +109,9 @@ Currently sharpening my work at the intersection of **modern web engineering** a
 <br/>
 
 <!-- GitHub Stats + Top Languages -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AsiriJayakodi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&ring_color=6366F1&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=AsiriJayakodi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&ring_color=6366F1&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
 &nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsiriJayakodi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=94A3B8&langs_count=7" alt="Top languages"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AsiriJayakodi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=94A3B8&langs_count=7" alt="Top languages"/>
 
 <br/><br/>
 
@@ -139,6 +139,8 @@ Currently sharpening my work at the intersection of **modern web engineering** a
 </div>
 
 <br/>
+
+---
 
 ---
 
