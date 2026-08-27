@@ -111,20 +111,20 @@ Currently sharpening my work at the intersection of **modern web engineering** a
 <img src="https://skillicons.dev/icons?i=nodejs,graphql&theme=dark" alt="Backend: Node.js, GraphQL"/>
 
 ### Cloud & Serverless
-<img src="https://skillicons.dev/icons?i=aws,dynamodb&theme=dark" alt="Cloud: AWS, DynamoDB"/>
+<img src="https://skillicons.dev/icons?i=aws,dynamodb,graphql,docker,vercel&theme=dark" alt="Cloud & Architecture"/>
 
-<br/>
+<br/><br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" alt="AWS Lambda"/>
-  <img src="https://img.shields.io/badge/AWS_Cognito-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cognito"/>
-  <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB"/>
-  <img src="https://img.shields.io/badge/AWS_AppSync-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS AppSync"/>
-  <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat-square&logo=aws-amplify&logoColor=white" alt="AWS Amplify"/>
-  <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS CDK"/>
-  <img src="https://img.shields.io/badge/SES_%2F_SQS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="SES / SQS"/>
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon Bedrock"/>
+  <code><img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/> <b>AWS Lambda</b></code> &nbsp;&nbsp;
+  <code><img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/> <b>AWS Cognito</b></code> &nbsp;&nbsp;
+  <code><img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/> <b>Amazon DynamoDB</b></code> &nbsp;&nbsp;
+  <code><img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="AppSync"/> <b>AWS AppSync</b></code>
+  <br/><br/>
+  <code><img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/> <b>AWS Amplify</b></code> &nbsp;&nbsp;
+  <code><img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/> <b>AWS CDK</b></code> &nbsp;&nbsp;
+  <code><img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/> <b>Amazon SES / SQS</b></code> &nbsp;&nbsp;
+  <code><img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/> <b>Amazon Bedrock</b></code>
 </p>
 
 ### Databases & Tools
