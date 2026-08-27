@@ -46,7 +46,7 @@
 
 ## `$ whoami`
 
-IT undergraduate at the **University of Moratuwa** (CGPA 3.58/4.00), specializing in full-stack development with **Next.js, React, and TypeScript** on the frontend and **Node.js + AWS serverless** on the backend. I focus on building secure, scalable systems — from cloud-native enterprise applications to embedded IoT solutions.
+IT undergraduate at the **University of Moratuwa** , specializing in full-stack development with **Next.js, React, and TypeScript** on the frontend and **Node.js + AWS serverless** on the backend. I focus on building secure, scalable systems — from cloud-native enterprise applications to embedded IoT solutions.
 
 Currently sharpening my work at the intersection of **modern web engineering** and **AWS cloud architecture**.
 
