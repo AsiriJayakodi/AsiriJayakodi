@@ -103,7 +103,7 @@ Currently sharpening my work at the intersection of **modern web engineering** a
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="metrics.plugin.isocalendar.fullyear.svg">
   <source media="(prefers-color-scheme: light)" srcset="metrics.plugin.isocalendar.fullyear.svg">
-  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar — full year" width="100%"/>
+  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar — full year" width="520"/>
 </picture>
 
 <br/>
