@@ -1,360 +1,280 @@
-# Hi, I'm Asiri Indrajith 👋
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    ASIRI INDRAJITH JAYAKODI                        -->
+<!--              GitHub Profile README — AsiriJayakodi                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-### Full-Stack Developer · IT Undergraduate
+<div align="center">
 
-<p align="left">
-  <a href="https://asiriindrajith.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:asiriindrajithjayakodi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://medium.com/@asiriindrajith">
-    <img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-</p>
+<!-- Animated typing header -->
+<a href="https://asiriindrajith.vercel.app" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Asiri+Indrajith+Jayakodi;Full-Stack+Developer+%7C+IT+Undergraduate" alt="Asiri Indrajith Jayakodi — Full-Stack Developer" />
+</a>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=AsiriJayakodi&style=flat-square&color=0e75b6" alt="Profile Views"/>
-</p>
+<br/>
+
+<!-- Rotating role tags -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=800&color=94A3B8&center=true&vCenter=true&width=600&lines=Next.js+%2F+React+%2F+TypeScript;AWS+%26+Serverless+Architecture;Building+scalable%2C+cloud-native+applications" alt="Technology specializations" />
+
+<br/><br/>
+
+<!-- Social badges -->
+<a href="https://github.com/AsiriJayakodi">
+  <img src="https://img.shields.io/badge/GitHub-AsiriJayakodi-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/asiriindrajith">
+  <img src="https://img.shields.io/badge/LinkedIn-Asiri_Indrajith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a14" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://asiriindrajith.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-asiriindrajith.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a14" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://medium.com/@asiriindrajith">
+  <img src="https://img.shields.io/badge/Medium-@asiriindrajith-1a1a1a?style=for-the-badge&logo=medium&logoColor=white&labelColor=0a0a14" alt="Medium"/>
+</a>
+&nbsp;
+<a href="mailto:asiriindrajithjayakodi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a14" alt="Email"/>
+</a>
+
+</div>
+
+<br/>
 
 ---
 
-## 👨‍💻 About Me
+## `$ whoami`
 
-I'm a **third-year Information Technology undergraduate at the University of Moratuwa** with a strong foundation in computer science and full-stack software development.
+IT undergraduate at the **University of Moratuwa** (CGPA 3.58/4.00), specializing in full-stack development with **Next.js, React, and TypeScript** on the frontend and **Node.js + AWS serverless** on the backend. I focus on building secure, scalable systems — from cloud-native enterprise applications to embedded IoT solutions.
 
-I enjoy designing and building modern applications that combine clean user experiences, reliable backend systems, and scalable cloud architectures.
+Currently sharpening my work at the intersection of **modern web engineering** and **AWS cloud architecture**.
 
-My current interests include **full-stack development, serverless architectures, cloud computing, system design, and building production-oriented software solutions**.
-
-* 🎓 BSc (Hons) in Information Technology — University of Moratuwa
-* 💻 Full-Stack Developer
-* ☁️ Exploring AWS & Serverless Architecture
-* 🧩 Interested in System Design & Scalable Applications
-* 🚀 Building real-world software solutions
-* 📚 Continuously learning and improving
+<br/>
 
 ---
 
-## ⚡ What I Work With
+## Currently Building
+
+```
+▸  Cloud-native full-stack applications   →  Next.js App Router · AWS Lambda · DynamoDB
+▸  Serverless backend architectures       →  AWS CDK · AppSync · SES/SQS
+▸  Scalable, secure authentication flows  →  AWS Cognito · Role-based access control
+▸  Performant frontend experiences        →  TypeScript · React · CSS Modules
+```
+
+<br/>
+
+---
+
+## Tech Stack
+
+<div align="center">
 
 ### Languages
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" height="42" alt="PHP"/>
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,php&theme=dark" alt="Languages: TypeScript, JavaScript, Python, Java, C++, C, PHP"/>
 
 ### Frontend
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,css&theme=dark" alt="Frontend: Next.js, React, CSS Modules"/>
 
 ### Backend & APIs
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="42" height="42" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="42" height="42" alt="GraphQL"/>
-</p>
-
-`REST APIs` · `GraphQL` · `Serverless APIs`
+<img src="https://skillicons.dev/icons?i=nodejs,graphql&theme=dark" alt="Backend: Node.js, GraphQL"/>
 
 ### Cloud & Serverless
+<img src="https://skillicons.dev/icons?i=aws,dynamodb&theme=dark" alt="Cloud: AWS, DynamoDB"/>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="60" height="45" alt="AWS"/>
-</p>
+<sub>AWS Cognito · Lambda · AppSync · DynamoDB · SES/SQS · AWS CDK · Amplify · Amazon Bedrock</sub>
 
-`AWS Cognito` · `AWS Lambda` · `AWS AppSync` · `DynamoDB` · `AWS SES` · `AWS SQS` · `AWS CDK` · `AWS Amplify` · `Amazon Bedrock`
+### Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,postman&theme=dark" alt="Databases & Tools: MongoDB, MySQL, Git, Postman"/>
 
-### Databases
+</div>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB"/>
-</p>
-
-`MySQL` · `MongoDB` · `Amazon DynamoDB`
-
-### Tools
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" height="42" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" height="42" alt="Figma"/>
-</p>
-
-`Git` · `GitHub` · `Postman` · `Vitest` · `Figma`
+<br/>
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏢 Enterprise HR Management System — Enlear
-
-A cloud-native, full-stack **Human Resource Management System** supporting Admin, Manager, and Employee workflows.
-
-### Highlights
-
-* Implemented secure authentication using **AWS Cognito**
-* Built registration, login, temporary password, forgot-password and reset-password flows
-* Configured Cognito triggers for custom user lifecycle management
-* Developed employee management and candidate onboarding modules
-* Built full-stack features using **Next.js App Router & TypeScript**
-* Developed REST and GraphQL APIs
-* Integrated **AWS SES/SQS** for automated onboarding emails
-* Designed the application around a serverless cloud architecture
-
-**Tech Stack**
-
-`Next.js` `TypeScript` `AWS Cognito` `AWS Lambda` `AWS AppSync` `DynamoDB` `SES` `SQS` `CSS Modules`
-
-[View Repository](YOUR_HRMS_REPOSITORY_URL)
-
----
-
-## 🌐 Dynamic Developer Portfolio & CMS
-
-A full-stack, server-rendered developer portfolio with a custom CMS and dynamic content management system.
-
-### Highlights
-
-* Built using **Next.js App Router & TypeScript**
-* Developed a secure admin dashboard
-* Implemented dynamic project and skill management
-* Added CV/resume upload functionality
-* Implemented interactive profile image cropping
-* Designed MongoDB/Mongoose schemas for dynamic content
-* Added automated email delivery and inquiry logging
-* Built responsive UI/UX with kinetic scrolling and interactive canvas animations
-
-**Tech Stack**
-
-`Next.js` `React 19` `TypeScript` `MongoDB` `Mongoose` `Node.js` `Nodemailer` `Lenis` `CSS Modules`
-
-[View Repository](YOUR_PORTFOLIO_REPOSITORY_URL)
-
-[Live Portfolio](https://asiriindrajith.vercel.app)
-
----
-
-## 🍰 Slice of Heaven — Full-Stack E-Commerce Platform
-
-A full-stack e-commerce platform designed for a cake shop, including a customer storefront and administrative management system.
-
-### Highlights
-
-* Customer-facing product storefront
-* Secure admin panel
-* Product management
-* Order management
-* Offer management
-* Cloudinary-based image storage and delivery
-* Full-stack REST-based application architecture
-
-**Tech Stack**
-
-`MongoDB` `Express.js` `React.js` `Node.js` `Vite` `React Router` `CSS3` `Cloudinary`
-
-[View Repository](YOUR_SLICE_OF_HEAVEN_REPOSITORY_URL)
-
----
-
-## 📡 ESP32 LoRa Communication System
-
-A microcontroller-based communication system built using ESP32 with LoRa, GPS, Compass and OLED modules.
-
-### Highlights
-
-* Designed an ESP32-based LoRa communication system
-* Integrated LoRa communication hardware
-* Integrated GPS and Compass modules
-* Added OLED display functionality
-* Used **FreeRTOS** for task management
-* Implemented long-range IoT data communication
-* Integrated multiple hardware peripherals
-
-**Tech Stack**
-
-`ESP32` `LoRa` `GPS` `Compass` `OLED` `FreeRTOS` `C/C++`
-
-[View Repository](YOUR_LORA_REPOSITORY_URL)
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AsiriJayakodi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    height="170"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsiriJayakodi&layout=compact&hide_border=true&theme=transparent"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=AsiriJayakodi&hide_border=true&theme=transparent"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AsiriJayakodi&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-# 🎯 Currently Focused On
+## Featured Projects
 
 <table>
-<tr>
-<td width="50%">
-
-### ☁️ Cloud & Serverless
-
-Exploring scalable cloud architectures using AWS services and serverless technologies.
-
-</td>
-<td width="50%">
-
-### 🏗️ System Design
-
-Learning how to design reliable, scalable and maintainable software systems.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💻 Full-Stack Development
-
-Building complete applications from responsive frontend experiences to backend APIs and databases.
-
-</td>
-<td width="50%">
-
-### 🚀 Production-Ready Software
-
-Improving code quality, architecture, testing and deployment practices.
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 Enterprise HR Management System</h3>
+      <sub><strong>Enlear · Cloud-Native Full-Stack</strong></sub>
+      <p>End-to-end HR platform built on AWS serverless infrastructure. Supports Admin, Manager, and Employee workflows with automated onboarding, document processing, and real-time notifications.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/AWS_Cognito-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cognito"/>
+        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB"/>
+        <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" alt="Lambda"/>
+        <img src="https://img.shields.io/badge/AppSync-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AppSync"/>
+      </p>
+      <sub>AWS Cognito auth · Lambda/AppSync/DynamoDB backend · SES/SQS automation · App Router</sub>
+      <br/><br/>
+      <!-- Add repository URL here -->
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍💻 Dynamic Developer Portfolio & CMS</h3>
+      <sub><strong>Full-Stack · Content Management</strong></sub>
+      <p>Self-managing portfolio platform with a built-in CMS for dynamic content control — CV uploads, profile image cropping, project management, and a contact system backed by MongoDB.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      </p>
+      <sub>App Router · Lenis scrolling · Canvas animations · Image cropping · Email system</sub>
+      <br/><br/>
+      <!-- Add repository URL here -->
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍕 Slice of Heaven — E-Commerce Platform</h3>
+      <sub><strong>Full-Stack · MERN</strong></sub>
+      <p>Feature-rich e-commerce system with product management, order tracking, offer/discount handling, and Cloudinary-integrated media management. Built with a Vite-powered React frontend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+        <img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express" alt="Express"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+      </p>
+      <sub>Cloudinary media · Product/order/offer management · REST API · MERN stack</sub>
+      <br/><br/>
+      <!-- Add repository URL here -->
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 ESP32 / LoRa Navigation System</h3>
+      <sub><strong>Embedded · IoT · FreeRTOS</strong></sub>
+      <p>Long-range wireless navigation device using LoRa communication, GPS positioning, compass orientation, and OLED display. Real-time task management via FreeRTOS on ESP32 hardware.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
+        <img src="https://img.shields.io/badge/FreeRTOS-003A5D?style=flat-square" alt="FreeRTOS"/>
+        <img src="https://img.shields.io/badge/LoRa-1A73E8?style=flat-square" alt="LoRa"/>
+        <img src="https://img.shields.io/badge/GPS/OLED-333?style=flat-square" alt="GPS OLED"/>
+      </p>
+      <sub>LoRa wireless · GPS + Compass · OLED UI · FreeRTOS multitasking · IoT</sub>
+      <br/><br/>
+      <!-- Add repository URL here -->
+    </td>
+  </tr>
 </table>
 
----
-
-# 💼 Experience
-
-### Instructor of Web Design & Development
-
-**Southern IRAA (Pvt) Ltd. · 2024 – 2025**
-
-Taught web design and development fundamentals while guiding students through practical, hands-on coursework.
-
-### Course Consultant Officer
-
-**eclub Business College · 2023 – 2024**
-
-Advised prospective students on course selection and supported enrollment and onboarding processes.
+<br/>
 
 ---
 
-# 🎓 Education
+## GitHub Activity
 
-### University of Moratuwa
+<div align="center">
 
-**BSc (Hons) in Information Technology**
-2023 – Present
+<!-- Isometric Commit Calendar — full year -->
+<!-- Generated by lowlighter/metrics GitHub Action (see .github/workflows/metrics.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="metrics.plugin.isocalendar.fullyear.svg">
+  <source media="(prefers-color-scheme: light)" srcset="metrics.plugin.isocalendar.fullyear.svg">
+  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="Isometric commit calendar — full year" width="100%"/>
+</picture>
 
-**CGPA: 3.58 / 4.00**
+<br/>
 
----
+<!-- GitHub Stats + Top Languages -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AsiriJayakodi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&ring_color=6366F1&include_all_commits=true&count_private=true" alt="GitHub statistics"/>
+&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsiriJayakodi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=94A3B8&langs_count=7" alt="Top languages"/>
 
-# 🏆 Achievement
+<br/><br/>
 
-### MoraXtreme 10.0
+<!-- Contribution Streak -->
+<img src="https://streak-stats.demolab.com?user=AsiriJayakodi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakNum=FFFFFF&sideNums=94A3B8&currStreakLabel=6366F1&sideLabels=94A3B8&dates=4B5563" alt="GitHub contribution streak"/>
 
-**Hackathon Participant · 2026**
+</div>
 
----
-
-# 📜 Certifications
-
-* Certificate Course in Web Development — Centre for Open & Distance Learning, University of Moratuwa
-* Certificate Course in Computer Application Assistant — YES Computer Institute
-* Certificate Course in Web Design for Beginners — SoloLearn
-
----
-
-# 🌱 Beyond Code
-
-Outside of development, I actively work on improving my:
-
-`Leadership` · `Problem Solving` · `Critical Thinking` · `Presentation` · `Time Management`
-
-I'm also involved in student and technology communities at the University of Moratuwa.
+<br/>
 
 ---
 
-# 📫 Let's Connect
+## Starred Topics
 
-I'm always interested in connecting with developers, students, and technology enthusiasts to learn, collaborate and build meaningful software.
+<div align="center">
 
-<p align="left">
-  <a href="https://asiriindrajith.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@asiriindrajith">
-    <img src="https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="mailto:asiriindrajithjayakodi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<!-- Starred Topics — icon mode -->
+<!-- Generated by lowlighter/metrics GitHub Action (see .github/workflows/metrics.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="metrics.plugin.topics.icons.svg">
+  <source media="(prefers-color-scheme: light)" srcset="metrics.plugin.topics.icons.svg">
+  <img src="metrics.plugin.topics.icons.svg" alt="Starred GitHub topics" width="100%"/>
+</picture>
+
+</div>
+
+<br/>
 
 ---
 
-<p align="center">
-  <b>Building. Learning. Improving.</b>
-</p>
+## Background
 
-<p align="center">
-  <sub>Thanks for visiting my profile.</sub>
-</p>
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h4>Education</h4>
+      <strong>BSc (Hons) Information Technology</strong><br/>
+      University of Moratuwa &nbsp;·&nbsp; CGPA 3.58/4.00<br/>
+      <sub>Third year · Expected graduation 2026</sub>
+      <br/><br/>
+      <h4>Highlights</h4>
+      <sub>🏆 MoraXtreme 10.0 Hackathon Participant — 2026</sub>
+    </td>
+    <td width="45%" valign="top">
+      <h4>Experience</h4>
+      <strong>Instructor — Web Design & Development</strong><br/>
+      <sub>Southern IRAA · 2024–2025</sub>
+      <br/><br/>
+      <strong>Course Consultant Officer</strong><br/>
+      <sub>eclub Business College · 2023–2024</sub>
+    </td>
+  </tr>
+</table>
 
+<br/>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/AsiriJayakodi">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/asiriindrajith">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://asiriindrajith.vercel.app">
+  <img src="https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+&nbsp;
+<a href="https://medium.com/@asiriindrajith">
+  <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+&nbsp;
+<a href="mailto:asiriindrajithjayakodi@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<sub><i>Designing systems, not just features — one commit at a time.</i></sub>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- Profile views counter                                              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=AsiriJayakodi&label=Profile+Views&color=6366F1&style=flat-square" alt="Profile view counter"/>
+</div>
