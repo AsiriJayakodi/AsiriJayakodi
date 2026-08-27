@@ -97,49 +97,113 @@ Currently sharpening my work at the intersection of **modern web engineering** a
 
 ---
 
-## Tech Stack
+<!-- ==================== TECH STACK ==================== -->
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,php&theme=dark" alt="Languages: TypeScript, JavaScript, Python, Java, C++, C, PHP"/>
+### 🌟 Core Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,aws,mongodb,dynamodb&theme=dark" alt="Core Technologies: TypeScript, React, Next.js, Node.js, AWS, MongoDB, DynamoDB"/>
+</p>
+<sub><b>TypeScript · React · Next.js · Node.js · AWS · MongoDB · Amazon DynamoDB</b></sub>
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,css&theme=dark" alt="Frontend: Next.js, React, CSS Modules"/>
-
-### Backend & APIs
-<img src="https://skillicons.dev/icons?i=nodejs,graphql&theme=dark" alt="Backend: Node.js, GraphQL"/>
-
-### Cloud & Serverless
-<img src="https://skillicons.dev/icons?i=aws,dynamodb&theme=dark" alt="Cloud: AWS, DynamoDB"/>
-<img src="https://skillicons.dev/icons?i=aws,dynamodb,graphql,docker,vercel&theme=dark" alt="Cloud & Architecture"/>
-
-<br/>
 <br/><br/>
 
+### Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" alt="AWS Lambda"/>
-  <img src="https://img.shields.io/badge/AWS_Cognito-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Cognito"/>
-  <img src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB"/>
-  <img src="https://img.shields.io/badge/AWS_AppSync-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS AppSync"/>
-  <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat-square&logo=aws-amplify&logoColor=white" alt="AWS Amplify"/>
-  <img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS CDK"/>
-  <img src="https://img.shields.io/badge/SES_%2F_SQS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="SES / SQS"/>
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="Amazon Bedrock"/>
-  <code><img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/> <b>AWS Lambda</b></code> &nbsp;&nbsp;
-  <code><img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/> <b>AWS Cognito</b></code> &nbsp;&nbsp;
-  <code><img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/> <b>Amazon DynamoDB</b></code> &nbsp;&nbsp;
-  <code><img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="AppSync"/> <b>AWS AppSync</b></code>
-  <br/><br/>
-  <code><img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/> <b>AWS Amplify</b></code> &nbsp;&nbsp;
-  <code><img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/> <b>AWS CDK</b></code> &nbsp;&nbsp;
-  <code><img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/> <b>Amazon SES / SQS</b></code> &nbsp;&nbsp;
-  <code><img height="18" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS"/> <b>Amazon Bedrock</b></code>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,php&theme=dark" alt="Languages: TypeScript, JavaScript, Python, Java, C++, C, PHP"/>
+</p>
+<sub>TypeScript · JavaScript · Python · Java · C++ · C · PHP</sub>
+
+<br/><br/>
+
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,css,tailwind&theme=dark" alt="Frontend: Next.js, React, TypeScript, CSS Modules, Tailwind CSS"/>
+</p>
+<sub>Next.js (App Router) · React · TypeScript · CSS Modules · Tailwind CSS</sub>
+
+<br/><br/>
+
+### Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" alt="Backend: Node.js, Express.js, GraphQL, REST APIs"/>
+</p>
+<sub>Node.js · Express.js · REST APIs · GraphQL</sub>
+
+<br/><br/>
+
+### Cloud & Serverless
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,dynamodb,graphql,docker,vercel&theme=dark" alt="Cloud Architecture: AWS, DynamoDB, GraphQL, Docker, Vercel"/>
 </p>
 
-### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,postman&theme=dark" alt="Databases & Tools: MongoDB, MySQL, Git, Postman"/>
+<br/>
+
+<!-- AWS Serverless Ecosystem Showcase -->
+<table>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="30" height="30" alt="AWS Core"/><br/>
+      <sub><b>AWS Core</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="30" height="30" alt="AWS Lambda"/><br/>
+      <sub><b>AWS Lambda</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="30" height="30" alt="AWS Cognito"/><br/>
+      <sub><b>AWS Cognito</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazondynamodb.svg" width="30" height="30" alt="Amazon DynamoDB"/><br/>
+      <sub><b>DynamoDB</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/graphql.svg" width="30" height="30" alt="AWS AppSync"/><br/>
+      <sub><b>AWS AppSync</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="30" height="30" alt="AWS Amplify"/><br/>
+      <sub><b>AWS Amplify</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="30" height="30" alt="AWS CDK"/><br/>
+      <sub><b>AWS CDK</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="30" height="30" alt="Amazon SES"/><br/>
+      <sub><b>Amazon SES</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="30" height="30" alt="Amazon SQS"/><br/>
+      <sub><b>Amazon SQS</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="30" height="30" alt="Amazon Bedrock"/><br/>
+      <sub><b>Amazon Bedrock</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,postgres&theme=dark" alt="Databases: MongoDB, MySQL, Amazon DynamoDB, PostgreSQL"/>
+</p>
+<sub>MongoDB · MySQL · Amazon DynamoDB · PostgreSQL</sub>
+
+<br/><br/>
+
+### Testing & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,vitest,docker,vscode&theme=dark" alt="Testing & Tools: Git, Postman, Vitest, Docker, VS Code"/>
+</p>
+<sub>Git · Postman · Vitest · Docker · VS Code</sub>
 
 </div>
 
