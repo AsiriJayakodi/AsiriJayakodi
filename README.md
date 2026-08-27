@@ -102,108 +102,33 @@ Currently sharpening my work at the intersection of **modern web engineering** a
 
 <div align="center">
 
-### 🌟 Core Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,aws,mongodb,dynamodb&theme=dark" alt="Core Technologies: TypeScript, React, Next.js, Node.js, AWS, MongoDB, DynamoDB"/>
-</p>
-<sub><b>TypeScript · React · Next.js · Node.js · AWS · MongoDB · Amazon DynamoDB</b></sub>
-
-<br/><br/>
-
 ### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,php&theme=dark" alt="Languages: TypeScript, JavaScript, Python, Java, C++, C, PHP"/>
-</p>
-<sub>TypeScript · JavaScript · Python · Java · C++ · C · PHP</sub>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,c,php&theme=dark" alt="Languages: TypeScript, JavaScript, Python, Java, C++, C, PHP"/>
 
 <br/><br/>
 
 ### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,css,tailwind&theme=dark" alt="Frontend: Next.js, React, TypeScript, CSS Modules, Tailwind CSS"/>
-</p>
-<sub>Next.js (App Router) · React · TypeScript · CSS Modules · Tailwind CSS</sub>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,css,tailwind&theme=dark" alt="Frontend: Next.js, React, TypeScript, CSS, Tailwind"/>
 
 <br/><br/>
 
 ### Backend & APIs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" alt="Backend: Node.js, Express.js, GraphQL, REST APIs"/>
-</p>
-<sub>Node.js · Express.js · REST APIs · GraphQL</sub>
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql&theme=dark" alt="Backend: Node.js, Express, GraphQL"/>
 
 <br/><br/>
 
 ### Cloud & Serverless
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,dynamodb,graphql,docker,vercel&theme=dark" alt="Cloud Architecture: AWS, DynamoDB, GraphQL, Docker, Vercel"/>
-</p>
+<img src="https://skillicons.dev/icons?i=aws,dynamodb,docker,vercel,cloudflare&theme=dark" alt="Cloud & Architecture: AWS, DynamoDB, Docker, Vercel, Cloudflare"/>
 
-<br/>
-
-<!-- AWS Serverless Ecosystem Showcase -->
-<table>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="30" height="30" alt="AWS Core"/><br/>
-      <sub><b>AWS Core</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="30" height="30" alt="AWS Lambda"/><br/>
-      <sub><b>AWS Lambda</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="30" height="30" alt="AWS Cognito"/><br/>
-      <sub><b>AWS Cognito</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazondynamodb.svg" width="30" height="30" alt="Amazon DynamoDB"/><br/>
-      <sub><b>DynamoDB</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/graphql.svg" width="30" height="30" alt="AWS AppSync"/><br/>
-      <sub><b>AWS AppSync</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="30" height="30" alt="AWS Amplify"/><br/>
-      <sub><b>AWS Amplify</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="30" height="30" alt="AWS CDK"/><br/>
-      <sub><b>AWS CDK</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="30" height="30" alt="Amazon SES"/><br/>
-      <sub><b>Amazon SES</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="30" height="30" alt="Amazon SQS"/><br/>
-      <sub><b>Amazon SQS</b></sub>
-    </td>
-    <td align="center" width="130">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" width="30" height="30" alt="Amazon Bedrock"/><br/>
-      <sub><b>Amazon Bedrock</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
+<br/><br/>
 
 ### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,postgres&theme=dark" alt="Databases: MongoDB, MySQL, Amazon DynamoDB, PostgreSQL"/>
-</p>
-<sub>MongoDB · MySQL · Amazon DynamoDB · PostgreSQL</sub>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,dynamodb,postgres&theme=dark" alt="Databases: MongoDB, MySQL, DynamoDB, Postgres"/>
 
 <br/><br/>
 
 ### Testing & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman,vitest,docker,vscode&theme=dark" alt="Testing & Tools: Git, Postman, Vitest, Docker, VS Code"/>
-</p>
-<sub>Git · Postman · Vitest · Docker · VS Code</sub>
+<img src="https://skillicons.dev/icons?i=git,postman,vitest,docker,vscode&theme=dark" alt="Tools: Git, Postman, Vitest, Docker, VS Code"/>
 
 </div>
 
