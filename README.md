@@ -118,7 +118,7 @@ Currently sharpening my work at the intersection of **modern web engineering** a
 <br/><br/>
 
 ### Cloud & Serverless
-<img src="https://skillicons.dev/icons?i=aws,dynamodb,docker,vercel,cloudflare&theme=dark" alt="Cloud & Architecture: AWS, DynamoDB, Docker, Vercel, Cloudflare"/>
+<img src="https://skillicons.dev/icons?i=aws,dynamodb,docker,vercel&theme=dark" alt="Cloud & Serverless: AWS, DynamoDB, Docker, Vercel"/>
 
 <br/><br/>
 
