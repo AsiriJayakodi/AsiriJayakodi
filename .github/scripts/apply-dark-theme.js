@@ -1,6 +1,24 @@
 const fs = require("fs");
 const path = require("path");
 
+// If rendered into /metrics_renders by lowlighter/metrics docker container, copy all rendered SVGs to workspace
+const rendersDir = "/metrics_renders";
+if (fs.existsSync(rendersDir)) {
+  try {
+    const files = fs.readdirSync(rendersDir);
+    for (const file of files) {
+      if (file.endsWith(".svg")) {
+        const src = path.join(rendersDir, file);
+        const dest = path.resolve(process.cwd(), file);
+        fs.copyFileSync(src, dest);
+        console.log(`Copied ${file} from ${rendersDir} to ${dest}`);
+      }
+    }
+  } catch (err) {
+    console.warn(`Could not copy renders from ${rendersDir}:`, err.message);
+  }
+}
+
 const svgPath = path.resolve(process.cwd(), "metrics.plugin.isocalendar.fullyear.svg");
 
 if (!fs.existsSync(svgPath)) {

@@ -62,7 +62,13 @@ jobs:
       # 3. Force Dark Mode Palette on 3D Isometric Calendar
       # ──────────────────────────────────────────────────
       - name: Apply Dark Mode Palette to 3D Isometric Calendar
-        run: node .github/scripts/apply-dark-theme.js
+        run: |
+          if [ -d "/metrics_renders" ]; then
+            sudo cp -f /metrics_renders/*.svg ./ 2>/dev/null || true
+            sudo chown -R $(id -u):$(id -g) *.svg 2>/dev/null || true
+          fi
+          node .github/scripts/apply-dark-theme.js
+          git status --short
 
       # ──────────────────────────────────────────────────
       # 4. Commit and Push Generated SVGs
