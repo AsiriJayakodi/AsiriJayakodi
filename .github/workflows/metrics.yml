@@ -1,17 +1,15 @@
 name: GitHub Metrics — Isometric Calendar & Topics
 
 on:
-  # Run every day at 00:30 UTC to keep metrics fresh
-  schedule:
-    - cron: "30 0 * * *"
-
-  # Allow manual trigger from the Actions tab
+  # Allow manual trigger from the Actions tab whenever you want to refresh stats
   workflow_dispatch:
 
-  # Also refresh on every push to main
+  # Refresh only on manual pushes to main (ignoring auto-generated SVG changes)
   push:
     branches:
       - main
+    paths-ignore:
+      - "*.svg"
 
 jobs:
   metrics:
@@ -78,3 +76,6 @@ jobs:
         with:
           commit_message: "Update metrics SVGs (Dark Theme) [skip ci]"
           file_pattern: "*.svg"
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
