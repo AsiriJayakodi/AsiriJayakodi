@@ -1,0 +1,48 @@
+name: GitHub Streak Stats
+
+on:
+  schedule:
+    # Runs daily at 00:15 UTC to keep streak stats updated
+    - cron: "15 0 * * *"
+  # Allow manual trigger anytime from GitHub Actions tab
+  workflow_dispatch:
+  # Trigger immediately when the workflow file is updated
+  push:
+    paths:
+      - .github/workflows/streak-stats.yml
+
+permissions:
+  contents: write
+
+concurrency: streak-stats
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Ensure output directory exists
+        run: mkdir -p profile
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakNum=FFFFFF&sideNums=94A3B8&currStreakLabel=6366F1&sideLabels=94A3B8&dates=4B5563
+          path: profile/streak.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit streak stats
+        shell: bash
+        run: |
+          git add profile/streak.svg
+          if git diff --cached --quiet; then
+            echo "Streak stats unchanged; nothing to commit."
+            exit 0
+          fi
+          # Committing as github-actions[bot] ensures this does NOT count towards your contribution calendar
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet --message "Update streak stats [skip ci]"
+          git push --quiet

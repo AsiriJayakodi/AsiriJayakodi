@@ -72,10 +72,10 @@
 &nbsp;&nbsp;
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AsiriJayakodi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=94A3B8&langs_count=7" alt="Top languages"/>
 
-<!-- Contribution Streak (temporarily commented out: external service streak-stats.demolab.com is currently down)
 <br/><br/>
-<img src="https://streak-stats.demolab.com?user=AsiriJayakodi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakNum=FFFFFF&sideNums=94A3B8&currStreakLabel=6366F1&sideLabels=94A3B8&dates=4B5563" alt="GitHub contribution streak"/>
--->
+
+<!-- Contribution Streak -->
+<img src="profile/streak.svg" alt="GitHub contribution streak"/>
 
 </div>
 
