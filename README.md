@@ -68,6 +68,16 @@
 <!-- Contribution Streak -->
 <img src="https://streak-stats.demolab.com?user=AsiriJayakodi&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=6366F1&ring=6366F1&fire=F59E0B&currStreakNum=FFFFFF&sideNums=94A3B8&currStreakLabel=6366F1&sideLabels=94A3B8&dates=4B5563" alt="GitHub contribution streak"/>
 
+
+<br/><br/>
+
+<!-- Git Koi — pixel-art koi pond reflecting GitHub activity -->
+<a href="https://github.com/yalongwastaken/git-koi">
+  <img src="koi/koi.gif" width="256" alt="Asiri's Git Koi" />
+</a>
+<br/>
+<sub><i>Drawn nightly from activity · Languages color it, contributions grow it, streaks mark it</i></sub>
+
 </div>
 
 <br/>
