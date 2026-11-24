@@ -19,23 +19,23 @@
 
 <!-- Social badges -->
 <a href="https://github.com/AsiriJayakodi">
-  <img src="https://img.shields.io/badge/GitHub-AsiriJayakodi-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=21262d" alt="GitHub"/>
+  <img src="badges/github.svg" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/asiri-indrajith-411344339">
-  <img src="https://img.shields.io/badge/LinkedIn-Asiri_Indrajith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a14" alt="LinkedIn"/>
+  <img src="badges/linkedin.svg" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://asiriindrajith.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-asiriindrajith.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a14" alt="Portfolio"/>
+  <img src="badges/portfolio.svg" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://medium.com/@asiriindrajithjayakodi">
-  <img src="https://img.shields.io/badge/Medium-@asiriindrajithjayakodi-1a1a1a?style=for-the-badge&logo=medium&logoColor=white&labelColor=0a0a14" alt="Medium"/>
+  <img src="badges/medium.svg" alt="Medium"/>
 </a>
 &nbsp;
 <a href="mailto:asiriindrajithjayakodi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a14" alt="Email"/>
+  <img src="badges/email.svg" alt="Email"/>
 </a>
 
 </div>
@@ -168,23 +168,23 @@ Currently sharpening my work at the intersection of **modern web engineering** a
 <div align="center">
 
 <a href="https://github.com/AsiriJayakodi">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="badges/connect-github.svg" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/asiri-indrajith-411344339">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="badges/connect-linkedin.svg" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://asiriindrajith.vercel.app">
-  <img src="https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="badges/connect-portfolio.svg" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://medium.com/@asiriindrajithjayakodi">
-  <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  <img src="badges/connect-medium.svg" alt="Medium"/>
 </a>
 &nbsp;
 <a href="mailto:asiriindrajithjayakodi@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="badges/connect-email.svg" alt="Email"/>
 </a>
 
 <br/><br/>
