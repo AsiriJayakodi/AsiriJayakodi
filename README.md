@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- Animated typing header -->
-<a href="https://asiriindrajith.vercel.app" target="_blank">
+<a href="https://asiriindrajith.me" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Asiri+Indrajith+Jayakodi;Full-Stack+Developer+%7C+IT+Undergraduate" alt="Asiri Indrajith Jayakodi — Full-Stack Developer" />
 </a>
 
@@ -26,7 +26,7 @@
   <img src="badges/linkedin.svg" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://asiriindrajith.vercel.app">
+<a href="https://asiriindrajith.me">
   <img src="badges/portfolio.svg" alt="Portfolio"/>
 </a>
 &nbsp;
@@ -175,7 +175,7 @@ Currently sharpening my work at the intersection of **modern web engineering** a
   <img src="badges/connect-linkedin.svg" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://asiriindrajith.vercel.app">
+<a href="https://asiriindrajith.me">
   <img src="badges/connect-portfolio.svg" alt="Portfolio"/>
 </a>
 &nbsp;
