@@ -27,7 +27,7 @@
 </a>
 &nbsp;
 <a href="https://asiriindrajith.me">
-  <img src="badges/portfolio.svg" alt="Portfolio"/>
+  <img src="badges/portfolio-me.svg" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="https://medium.com/@asiriindrajithjayakodi">
